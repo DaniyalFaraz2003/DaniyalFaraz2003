@@ -1,12 +1,11 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+Daniyal;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+    <p>I am a BSCS student at FAST National University of Computing and Emerging Sciences. Being passionate for my career in programming and software engineering I learnt things quickly which gave me opportunities to work in the industry as a software engineer and web application developer as well as a freelancer at a young age. My programming and software development experience is broad reaching till developing automated systems and web scraping bots as well as full stack applications.</p>
 </div>
 
 <div align="center">
