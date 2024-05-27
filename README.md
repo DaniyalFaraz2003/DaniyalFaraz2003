@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/daniyal-faraz-911360242/">
     <img src="https://img.shields.io/badge/DaniyalFaraz-911360242?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/DaniyalFaraz2003/DaniyalFaraz2003" target="_blank">
+<a href="https://github.com/DaniyalFaraz2003" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 </div>
