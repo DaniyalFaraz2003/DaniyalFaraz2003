@@ -134,18 +134,7 @@ I'm a **Computer Science student** at FAST National University of Computing and 
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/DaniyalFaraz2003">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalFaraz2003&repo=DaniyalFaraz2003&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
-</a>
-
-<a href="https://github.com/DaniyalFaraz2003">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalFaraz2003&repo=DaniyalFaraz2003&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
-</a>
-
-</div>
 
 <br>
 
@@ -278,7 +267,5 @@ I'm a **Computer Science student** at FAST National University of Computing and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 **⭐ From [DaniyalFaraz2003](https://github.com/DaniyalFaraz2003) with 💜**
-
-<img src="https://komarev.com/ghpvc/?username=DaniyalFaraz2003&style=for-the-badge&color=6366f1&label=Total+Profile+Views" alt="views" />
 
 </div>
