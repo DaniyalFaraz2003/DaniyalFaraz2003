@@ -4,17 +4,17 @@ I am a problem solver with over 4 years of experience in building business ERP s
 
 ## 💻 Tech Stack
 
-Backend: NEST JS, NEXT JS, Flask, FastAPI, Django, Swagger, Stripe, AWS
+**Backend:** NEST JS, NEXT JS, Flask, FastAPI, Django, Swagger, Stripe, AWS
 
-Frontend: VUE JS, NEXT JS, React, Angular
+**Frontend:** VUE JS, NEXT JS, React, Angular
 
-Database: Prisma, PostgreSQL, MongoDB, Oracle
+**Database:** Prisma, PostgreSQL, MongoDB, Oracle
 
-AI: Pytorch, YOLO, HF Transformers, Langchain, Langgraph, Numpy, OpenCV
+**AI:** Pytorch, YOLO, HF Transformers, Langchain, Langgraph, Numpy, OpenCV
 
-Tools: Git, Gitlab, AWS, Azure, MQTT
+**Tools:** Git, Gitlab, AWS, Azure, MQTT
 
-Languages: Typescript, Node JS, Python, C++
+**Languages:** Typescript, Node JS, Python, C++
 
 ## 🛠️ Featured Projects
 
